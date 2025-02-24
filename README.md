@@ -1,6 +1,6 @@
 # 📍 Last Mile Optimisation with OpenCage & OR-Tools
 
-This Python script takes a list of addresses from an Excel file, geocodes them using the OpenCage Geocoding API, calculates the pairwise distances using the Haversine formula, and solves a **Traveling Salesperson Problem (TSP)** to find the most efficient route using Google's OR-Tools.
+This Python script takes a list of addresses from an Excel file, geocodes them using the OpenCage Geocoding API, calculates the pairwise distances using the Haversine formula, and solves a **Vehicle Routing Problem (VRP)** to find the most efficient route using Google's OR-Tools.
 
 ## 🚀 Features
 
